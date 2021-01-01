@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace CSharpTestProject
+namespace HotelBookingTest
 {
     public class SampleUnitTest
     {
