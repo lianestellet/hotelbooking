@@ -2,7 +2,7 @@
 {
     public enum CustomerType
     {
-        REGULAR,
-        REWARDS
+        Regular,
+        Rewards
     }
 }
